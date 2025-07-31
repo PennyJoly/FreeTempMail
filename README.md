@@ -175,6 +175,10 @@ pm2 start ecosystem.config.cjs --env production
 sh start.sh
 ```
 
+## Vercel Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/PennyJoly/FreeTempMail)
+
 ## API INTERFACES
 
 ### Generate Temporary Email
