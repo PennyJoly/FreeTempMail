@@ -40,6 +40,26 @@ npm run dev
 
 浏览器里输入 http://localhost:3000 查看启动的FreeTempMail应用.
 
+# 基础配置说明
+
+```bash
+# 环境配置，开发可写development，生产写production
+NODE_ENV=development
+NUXT_PUBLIC_ENV=development
+# 你的准备部署的网站地址，用于seo e.g: mail.aitre.cc
+NUXT_PUBLIC_BASE_URL=
+# 你的域名邮箱地址 e.g:aitre.cc
+NUXT_PUBLIC_DOMAIN_URL=
+# 服务启动端口
+PORT=3000
+# PLAUSIBLE上配置的统计数据域名地址 (非必填)
+NUXT_PUBLIC_PLAUSIBLE_DOMAIN= # e.g: mail.aitre.cc
+# PLAUSIBLE 统计数据服务地址  (非必填)
+NUXT_PUBLIC_PLAUSIBLE_API_HOST= # e.g: https://plausible.io/
+# 谷歌GSC统计分析网站验证码 (非必填)
+GOOGLE_SEARCH_CONSOLE_VERIFICATION_CODE=
+```
+
 
 # IMAP邮箱配置说明
 

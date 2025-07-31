@@ -87,6 +87,7 @@ export default defineNuxtConfig({
     public: {
       env: process.env.NUXT_PUBLIC_ENV || 'development',
       baseUrl: process.env.NUXT_PUBLIC_BASE_URL,
+      domainUrl: process.env.NUXT_PUBLIC_DOMAIN_URL,
       isServer: true,
       plausible: {
         domain: process.env.NUXT_PUBLIC_PLAUSIBLE_DOMAIN,

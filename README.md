@@ -42,6 +42,26 @@ npm run dev
 
 Visit http://localhost:3000 to view your nuxtpro application.
 
+# base config
+
+```bash
+# env config，dev is development，prod is production
+NODE_ENV=development
+NUXT_PUBLIC_ENV=development
+# your website url e.g: mail.aitre.cc
+NUXT_PUBLIC_BASE_URL=
+# your domain url e.g:aitre.cc
+NUXT_PUBLIC_DOMAIN_URL=
+# Server port
+PORT=3000
+# PLAUSIBLE statistics service domain (not required)
+NUXT_PUBLIC_PLAUSIBLE_DOMAIN= # e.g: mail.aitre.cc
+# PLAUSIBLE statistics service API address (not required)
+NUXT_PUBLIC_PLAUSIBLE_API_HOST= # e.g: https://plausible.io/
+# Google Search Console verifyCode (not required)
+GOOGLE_SEARCH_CONSOLE_VERIFICATION_CODE=
+```
+
 
 # IMAP Email Configuration Guide
 

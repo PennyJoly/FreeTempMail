@@ -6,7 +6,7 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 // 生成随机邮箱地址
-export function generateRandomEmail(domain = 'aitre.cc'): string {
+export function generateRandomEmail(domain = process.env.NUXT_PUBLIC_DOMAIN_URL): string {
   const prefixes = ['temp', 'mail', 'test', 'demo', 'user', 'inbox', 'box']
   const randomPrefix = prefixes[Math.floor(Math.random() * prefixes.length)]
   const randomNumber = Math.floor(Math.random() * 10000)

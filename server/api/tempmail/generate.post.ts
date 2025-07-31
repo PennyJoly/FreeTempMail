@@ -9,7 +9,7 @@ export default defineEventHandler(async (event) => {
       result += chars.charAt(Math.floor(Math.random() * chars.length))
     }
     
-    return `${result}@aitre.cc`
+    return `${result}@${process.env.NUXT_PUBLIC_DOMAIN_URL}`
   }
 
   const email = generateRandomEmail()
@@ -17,7 +17,7 @@ export default defineEventHandler(async (event) => {
   return {
     success: true,
     email,
-    domain: 'aitre.cc',
+    domain: process.env.NUXT_PUBLIC_DOMAIN_URL,
     message: '临时邮箱地址已生成'
   }
 }) 
