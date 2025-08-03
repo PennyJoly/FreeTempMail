@@ -6,6 +6,8 @@ FreeTempMail is a free temporary email service that allows you to create disposa
 
 - [👉 FreeTempMail online url](https://mail.aitre.cc)
 
+- [👉 NuxtDir-AI Navigation,submit your site for free ](https://nuxtdir.com) 
+
 - [👉 NuxtPro Open Source Code](https://github.com/PennyJoly/NuxtPro)
 
 🚀 If you are looking for a Nuxt framework-based, all-in-one SaaS template with a built-in admin system and front-end/back-end compatibility, consider the commercial version of NuxtPro? (https://nuxtpro.com). The commercial version of NuxtPro allows you to launch an MVP in just 1 hour, validate your needs, and save a lot of development time. NuxtPro focuses on small and beautiful products, giving you more time to spend on promotion and operations. With mainstream AI products, a one-person company can efficiently generate revenue.
