@@ -205,4 +205,11 @@ sh start.sh
 3. 启动应用
 4. 点击"生成新邮箱"按钮
 5. 系统会自动轮询检查新邮件
-6. 新邮件会实时显示在界面中 
+6. 新邮件会实时显示在界面中
+
+## kevin的其余产品
+
+- [Remover.plus - 免费sora2视频去水印](https://remover.plus)
+- [NuxtDir - 发现全球热门ai工具导航站](https://nuxtdir.com)
+- [CheapGpt - 企业级AI大模型中转，1元人民币=1美刀额度](https://ai.linktre.cc)
+- [linktre-tools - 独立开发出海工具大全](https://github.com/PennyJoly/linktre-tools)
