@@ -207,3 +207,10 @@ sh start.sh
 4. Click the "Generate New Email" button
 5. The system will automatically poll for new emails
 6. New emails will be displayed in real time on the interface
+
+## kevin‘s other product
+
+- [Remover.plus - Free sora2 watermark remover](https://remover.plus)
+- [NuxtDir - discover powerful ai website worldwide](https://nuxtdir.com)
+- [CheapGpt - ai llm gateway,¥1 = $1](https://ai.linktre.cc)
+- [linktre-tools - indie maker tools](https://github.com/PennyJoly/linktre-tools)
